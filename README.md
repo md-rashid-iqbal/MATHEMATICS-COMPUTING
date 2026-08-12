@@ -5,7 +5,7 @@
 
 ## 📚 Semester Academic Resources
 
-| Semester | Notes & Study Material | PYQs (Mid / End Sem) | Google Drive Backup |
+| Semester | Notes & Study Material | PYQs (Mid / End Sem) | Google Drive | | syllabus |
 | :---: | :---: | :---: | :---: |
 | **Semester I** | [View Semester 1](./Semester-I) | [PYQs](./Semester-I) | [Drive Link](YOUR_GOOGLE_DRIVE_LINK) |
 | **Semester II** | [View Semester 2](./Semester-II) | [PYQs](./Semester-II) | [Drive Link](YOUR_GOOGLE_DRIVE_LINK) |
