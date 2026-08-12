@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DivyamSamarwal/NSUT-Mathematics-and-Computing/main/MAC.png" alt="Mathematics & Computing Banner" width="600"/>
-</p>
 
 <p align="center">
   <em>Mathematics & Computing</em>
